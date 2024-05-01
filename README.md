@@ -1,4 +1,9 @@
-### Hi there 👋
+### About me
+
+
+### How to reach me
+Please contact via Teams chat
+I'll respond asap within college hours
 
 <!--
 **BHASVIC-BEN/BHASVIC-BEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
