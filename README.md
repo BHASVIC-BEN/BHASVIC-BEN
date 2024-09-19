@@ -1,5 +1,5 @@
 ### About me
-Computer Science and Computing teaching at BHASVIC college
+Head of Computer Science at BHASVIC college
 
 ### How to reach me
 Please contact via Teams chat
