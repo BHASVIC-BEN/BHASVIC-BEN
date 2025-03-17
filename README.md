@@ -1,7 +1,7 @@
-### About me
+# About me
 Head of Computer Science at BHASVIC college
 
-### How to reach me
+## How to reach me
 Please contact via Teams chat
 I'll respond asap within college hours
 
